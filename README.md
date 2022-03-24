@@ -1,1 +1,1 @@
-# laboratoria_git
+# laboratorio_git
